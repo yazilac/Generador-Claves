@@ -1,0 +1,43 @@
+/* GENERADO PRINCIPALMENTE CON BOOTSTRAP*/
+
+body{
+    background-color: rgb(4, 25, 83);
+    font-family:'Times New Roman', Times, serif;
+}
+.card{
+    background-color: rgba(36, 61, 129, 0.5);
+    color: white;
+}
+h1{
+    font-size: 2rem;
+    text-transform: capitalize;
+}
+.card-copy{
+    background: white;
+    color: black;
+    cursor: pointer;
+}
+.input-clave{
+    font-size: 2em;
+    height: 50px;
+    font-family: cursive;
+}
+.tipo{
+    text-transform: capitalize;
+    margin: 2px 0;
+}
+p{
+    color: rgb(235, 198, 198);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+}
+p span{
+    font-size: 20px;
+}
+h6{
+    font-size: 10px;
+}
+h6 a{
+    text-decoration: none;
+}
